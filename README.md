@@ -27,3 +27,8 @@ Just load bobmask.js in your code.
 You have to set up some additional css:
 
 Take a look in the demo, please - its really simple.
+
+Demo:
+=====
+http://www.bob360.de/bobmaskdemo/demo.php
+
